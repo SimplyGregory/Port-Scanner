@@ -1,4 +1,4 @@
-# 🔍 Port Scanner - Network Discovery Tool
+#  Port Scanner - Network Discovery Tool
 
 A powerful and user-friendly Python port scanner that identifies open ports, and retrieves service banners. 
 
