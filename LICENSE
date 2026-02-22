@@ -1,0 +1,89 @@
+Port Scanner Reciprocal License
+Version 1.0 — 2026-02-22
+
+Copyright (c) 2026 ModSpidr
+
+1. Definitions
+
+“Licensor” means ModSpidr.
+“Third-Party Components” means any code, libraries, dependencies, or other materials not authored by the Licensor, including dependencies fetched via package managers, SDKs, engines, or system libraries, and any files in the repository that carry their own separate license notices.
+“Software” means the Licensor’s original contributions in this repository (source code, binaries, and accompanying files) made available by the Licensor under these terms, excluding Third-Party Components.
+“You” means the individual or entity using the Software.
+“Derivative Work” means any work based on, derived from, or incorporating any portion of the Software.
+“Tool” means any software, library, application, script, UI, or other work that is a Derivative Work.
+“Noncommercial” means not primarily intended for or directed toward commercial advantage or monetary compensation.
+“Written Request” means a request communicated in writing by the Licensor, including by:
+- email to an address the Licensor publishes in the repository (for example in README contact information),
+- opening an issue or discussion in the official repository for the Software,
+- direct message to an account the Licensor publicly identifies as theirs (for example GitHub or other social messaging), or
+- any other written message sent to a known business contact for You or Your company.
+“Response Period” means 7 days.
+
+2. License Grant (Noncommercial)
+
+Subject to full compliance with these terms, the Licensor grants You a non-exclusive, worldwide, royalty-free license to:
+- use the Software,
+- copy the Software,
+- modify the Software,
+- create Derivative Works,
+- distribute the Software and Derivative Works,
+
+but only for Noncommercial purposes.
+
+3. Attribution / Notice Requirements
+
+If You distribute the Software or any Derivative Work, You must:
+- include this LICENSE file unmodified, and
+- keep all copyright, attribution, and license notices intact.
+
+3.1 Third-Party Components
+
+Third-Party Components are not licensed to You under this LICENSE.
+Any Third-Party Components are governed by their own license terms, and You are responsible for complying with those terms.
+Nothing in this LICENSE grants You rights to use, copy, modify, or distribute any Third-Party Components except as allowed under their applicable licenses.
+
+4. Commercial Use (Conditional Permission)
+
+Commercial use is NOT permitted under Section 2.
+
+However, commercial use is permitted if and only if You comply with ALL of the following:
+
+4.1 Grant-Back License to Licensor
+
+By using the Software for any commercial purpose, creating a Tool for any commercial purpose, or distributing any Tool for any commercial purpose, You grant the Licensor a non-exclusive, worldwide, perpetual, irrevocable, royalty-free license to:
+- use, run, and display the Tool,
+- copy and distribute the Tool,
+- modify the Tool and create derivative works of the Tool,
+- sublicense the Tool and derivatives of the Tool,
+
+for any purpose, including commercial purposes, without any fee, royalty, or other compensation owed to You.
+
+4.2 Provide a Copy to Licensor (So Licensor Can Use It)
+
+If You distribute a Tool to any third party, or if You use a Tool commercially (even without distributing it), then upon the Licensor’s Written Request You must provide the Licensor, at no charge, either:
+- a copy of the Tool in runnable binary form, OR
+- the complete corresponding source code needed to build and run it,
+
+at the Licensor’s choice.
+
+You must comply within the Response Period after the Licensor sends a Written Request.
+If You do not comply within the Response Period, then the permission for commercial use in Section 4 ends automatically, and any continued commercial use is not licensed under these terms.
+
+5. No Trademark Rights
+
+These terms do not grant You any rights to use the Licensor’s trademarks, names, or logos, except to provide truthful attribution.
+
+6. Termination
+
+Any breach of these terms automatically terminates Your rights under this license.
+Upon termination, You must stop all use and distribution of the Software and any Derivative Works, except that the Licensor’s rights under Section 4 (Grant-Back) survive termination.
+
+For clarity: failure to comply with Section 4.2 within the Response Period terminates the conditional permission for commercial use described in Section 4.
+
+7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
